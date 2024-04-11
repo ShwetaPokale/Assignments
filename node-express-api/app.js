@@ -8,10 +8,10 @@ app.use(express.json());
 
 // Create a MySQL connection pool
 const pool = mysql.createPool({
-  host: '192.168.5.11',
-  user: 'mysqlusr',
-  password: 'dBLclrEP(?vM1!',
-  database: 'tempZeus'
+  host: 'xxxxxxxxx',
+  user: 'xxxxxxxx',
+  password: 'xxxxxxxxxx',
+  database: 'xxxxx'
 });
 
 // User registration endpoint

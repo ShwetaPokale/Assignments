@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=192.168.5.11;dbname=tempZeus',
-    'username' => 'mysqlusr',
-    'password' => 'dBLclrEP(?vM1!',
+    'dsn' => 'xxxxxxxxxxxxxxxxx',
+    'username' => 'xxxxxx',
+    'password' => 'xxxxxxx',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
